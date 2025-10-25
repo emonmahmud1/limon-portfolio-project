@@ -60,7 +60,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/smlimonparvez/my-react-portfolio.git
+   git clone https://github.com/emonmahmud1/limon-portfolio-project.git
    cd my-react-portfolio
    ```
 
@@ -133,7 +133,7 @@ const projects = [
 1. Install gh-pages: `npm install --save-dev gh-pages`
 2. Add to package.json scripts:
    ```json
-   "homepage": "https://yourusername.github.io/my-react-portfolio",
+   "homepage": "https://github.com/emonmahmud1/limon-portfolio-project.git",
    "predeploy": "npm run build",
    "deploy": "gh-pages -d dist"
    ```
