@@ -188,6 +188,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with ❤️ by S M Limon Parvez**
+**Built with ❤️ by Emon mahmud**
 
 *Clean code • Scalable architecture • Optimal performance*
